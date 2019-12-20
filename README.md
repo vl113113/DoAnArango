@@ -4,7 +4,7 @@ This is simple todo app for getting started with the crud of MongoDB with expres
 ## Clone the repo
 It is very light weight repo, So recommended starting with cloning the repo
 ```
-git clone https://github.com/Jatin-8898/ToDoApp.git
+git clone https://github.com/vl113113/DoAnArango.git
 ```
 
 
